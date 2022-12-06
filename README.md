@@ -8,7 +8,7 @@ The dataset for this study contains weather data, including temperature, humidit
 
 The goal of Seoul Bike is to provide the city with a steady supply of rental bikes. It is crucial for the company to accurately predict the number of bike rentals per hour in order to maintain customer satisfaction. This study could potentially be shared with Seoul Bikes to help them determine if they need to restock bike stations in the city.
 
-The project is implemented in Python and includes tasks for data visualization, machine learning modeling, and creating an API with Flask. The repository the presentation PDF, a Jupyter Notebook with the code, and the API.
+The project is implemented in Python and includes tasks for data visualization, machine learning modeling, and creating an API with Flask. So the repository includes the **presentation PDF**, a **Jupyter Notebook with the code**, and **the API**.
 
 The study shows that bike rentals are influenced by various factors, including the day of the week, time of day, and weather conditions. It was found that most rentals occur during the week, suggesting that the bikes are mainly used for commuting to work or school. Additionally, the number of rentals increases during spring and summer, indicating that favorable weather conditions contribute to higher rental rates.
 

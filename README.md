@@ -12,4 +12,4 @@ The project is implemented in Python and includes tasks for data visualization, 
 
 The study shows that bike rentals are influenced by various factors, including the day of the week, time of day, and weather conditions. It was found that most rentals occur during the week, suggesting that the bikes are mainly used for commuting to work or school. Additionally, the number of rentals increases during spring and summer, indicating that favorable weather conditions contribute to higher rental rates.
 
-The best-performing machine learning model in the study was the extra trees regressor, and the results of the model are available through the API.
+The best-performing machine learning model in the study was the random forest regressor, and the results of the model are available through the API.
